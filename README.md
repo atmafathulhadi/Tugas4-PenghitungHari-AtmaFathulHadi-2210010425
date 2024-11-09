@@ -102,11 +102,4 @@ Aplikasi menampilkan harga akhir, penghematan yang diperoleh, serta menyimpan da
 |  5  | Memenuhi Variasi |    30%       |
 |     | **TOTAL**        | 100%         |
 
-8. Cara Menjalankan Program
-Buka program di IDE seperti NetBeans atau Eclipse.
-Jalankan program, masukkan harga asli pada kolom "Harga".
-Pilih diskon menggunakan combo box atau slider.
-Jika memiliki kode kupon "DISKON10", masukkan di kolom "Kode Diskon".
-Klik "Hitung" untuk melihat harga akhir dan penghematan.
-Riwayat perhitungan akan muncul di area riwayat.
-Klik "Keluar" untuk menutup aplikasi.
+
