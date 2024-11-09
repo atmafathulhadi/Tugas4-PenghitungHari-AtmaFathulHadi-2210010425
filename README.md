@@ -2,7 +2,7 @@
 # Penghitung Hari
 
 **Tugas Pemrograman GUI**  
-Nama: ATMA FATHUL HADI 
+Nama: Atma Fathul Hadi
 NPM: 2210010425  
 
 ## 1. Deskripsi Program
